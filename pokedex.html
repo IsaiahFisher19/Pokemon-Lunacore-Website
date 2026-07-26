@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokémon Lunacore Pokédex</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero small-hero">
+    <nav>
+      <h1>Pokémon Lunacore</h1>
+
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="pokedex.html">Pokédex</a>
+        <a href="index.html#regionalforms">Regional Forms</a>
+        <a href="index.html#download">Download</a>
+      </div>
+    </nav>
+
+    <div class="hero-content">
+      <h2>Inflamous Pokédex</h2>
+      <p>
+        Browse the Pokémon of the Inflamous Region, including Fakemon,
+        evolutions, and future sprite galleries.
+      </p>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <h2>Search the Pokédex</h2>
+      <p>
+        You can search by Pokémon name. Each entry includes space for
+        Pokédex info and future sprite images.
+      </p>
+
+      <input
+        type="text"
+        id="dexSearch"
+        class="search-box"
+        placeholder="Search Pokémon by name..."
+      >
+
+      <div id="pokedexGrid" class="dex-grid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Pokémon Lunacore is a nonprofit fan project. Pokémon and all related
+      properties belong to Nintendo, Game Freak, and The Pokémon Company.
+    </p>
+  </footer>
+
+  <script src="pokedex.js"></script>
+</body>
+</html>
