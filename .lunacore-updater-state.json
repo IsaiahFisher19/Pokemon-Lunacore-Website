@@ -1,5 +1,5 @@
 ﻿{
-    "LastRunUtc":  "2026-07-26T17:15:33.3188515Z",
+    "LastRunUtc":  "2026-07-26T17:48:58.3261949Z",
     "FakemonFile":  {
                         "LastWriteUtc":  "2026-07-26T16:53:25.5320870Z",
                         "Length":  61458
@@ -9,9 +9,9 @@
                       "Length":  116034
                   },
     "RegionalDexFile":  {
-                            "LastWriteUtc":  "2026-07-25T23:04:52.3063609Z",
-                            "Length":  10052
+                            "LastWriteUtc":  "2026-07-26T17:47:49.0760182Z",
+                            "Length":  10062
                         },
-    "FakemonCount":  64,
+    "MainDexCount":  64,
     "CustomFormCount":  11
 }

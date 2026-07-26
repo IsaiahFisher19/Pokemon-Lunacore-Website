@@ -3,3 +3,5 @@
 2026-07-26 12:57:17 | PBS changed: True | Fakemon: 64 | Forms: 11 | Refreshed sprites: 0 | Current sprites: 181
 2026-07-26 13:02:34 | PBS changed: False | Fakemon: 64 | Forms: 11 | Refreshed sprites: 0 | Current sprites: 181
 2026-07-26 13:15:33 | PBS changed: True | Fakemon: 64 | Forms: 11 | Refreshed sprites: 0 | Current sprites: 181
+2026-07-26 13:46:24 | PBS changed: False | Main Dex: 63 | Regional Forms: 11 | Refreshed sprites: 1 | Current sprites: 181
+2026-07-26 13:48:58 | PBS changed: True | Main Dex: 64 | Regional Forms: 11 | Refreshed sprites: 0 | Current sprites: 182
