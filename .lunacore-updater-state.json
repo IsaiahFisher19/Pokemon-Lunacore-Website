@@ -1,0 +1,17 @@
+﻿{
+    "LastRunUtc":  "2026-07-26T16:32:19.3554035Z",
+    "FakemonFile":  {
+                        "LastWriteUtc":  "2026-07-25T21:07:55.2763352Z",
+                        "Length":  60303
+                    },
+    "FormsFile":  {
+                      "LastWriteUtc":  "2026-07-26T16:26:20.3725250Z",
+                      "Length":  115179
+                  },
+    "RegionalDexFile":  {
+                            "LastWriteUtc":  "2026-07-25T23:04:52.3063609Z",
+                            "Length":  10052
+                        },
+    "FakemonCount":  63,
+    "CustomFormCount":  10
+}
