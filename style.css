@@ -201,3 +201,92 @@ footer {
   color: #a9a9c7;
   font-size: 0.9rem;
 }
+/* ==========================================================================
+   POKÉDEX LAYOUT FIX
+   Keeps all sprites inside their cards and prevents overlapping
+   ========================================================================== */
+
+.dex-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 24px;
+  align-items: start;
+}
+
+.dex-card {
+  min-width: 0;
+  overflow: hidden;
+}
+
+.sprite-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  width: 100%;
+}
+
+.sprite-box {
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  min-height: 180px;
+  padding: 12px;
+
+  border: 1px dashed #5c5c7d;
+  border-radius: 10px;
+  background: #141421;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  overflow: hidden;
+  text-align: center;
+  color: #a9a9c7;
+  font-size: 0.9rem;
+}
+
+.sprite-box img {
+  display: block;
+  max-width: 100%;
+  max-height: 160px;
+  width: auto;
+  height: auto;
+
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+
+.sprite-placeholder {
+  display: none;
+}
+
+/* Smaller limits for icons, overworld sprites, and footprints */
+
+.sprite-box:has(img[src*="-icon."]) img {
+  max-height: 96px;
+}
+
+.sprite-box:has(img[src*="-overworld."]) img {
+  max-height: 140px;
+}
+
+.sprite-box:has(img[src*="-footprint."]) img {
+  max-height: 72px;
+}
+
+/* Mobile layout */
+
+@media (max-width: 760px) {
+  .dex-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .sprite-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .sprite-box {
+    min-height: 160px;
+  }
+}
