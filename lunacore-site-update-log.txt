@@ -1,1 +1,3 @@
 ﻿2026-07-26 12:32:19 | PBS changed: True | Fakemon: 63 | Forms: 10 | Refreshed sprites: 0 | Current sprites: 181
+2026-07-26 12:42:11 | PBS changed: False | Fakemon: 63 | Forms: 10 | Refreshed sprites: 0 | Current sprites: 181
+2026-07-26 12:57:17 | PBS changed: True | Fakemon: 64 | Forms: 11 | Refreshed sprites: 0 | Current sprites: 181

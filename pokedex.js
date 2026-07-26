@@ -1,4 +1,4 @@
-﻿// Auto-generated from PBS: 2026-07-26 12:32:18
+﻿// Auto-generated from PBS: 2026-07-26 12:57:16
 const pokemonData = [
   { dex:"001", id:"RATTISS", imageId:"rattiss",
     name:"Rattiss", types:["Grass"],
@@ -252,6 +252,10 @@ const pokemonData = [
     name:"Qilibra", types:["Dragon", "Fairy"],
     category:"Celestial Qilin PokÃ©mon", description:"By being able to look into the hearts of people and Pokemon, it can see the essence of their being. In doing so, it can pass its judgement wisely.",
     isRegionalForm:false },
+  { dex:"064", id:"LOMPRIGUS", imageId:"lomprigus",
+    name:"Lomprigus", types:["Ghost", "Fire"],
+    category:"Haunted Lamp PokÃ©mon", description:"Lomprigus traps wandering spirits inside its lamp-like body. Its flames grow brighter whenever it hears frightened voices nearby.",
+    isRegionalForm:false },
   { dex:"FORM", id:"CHINGLING,1", imageId:"chingling-1",
     name:"Chingling - Inflamous", types:["Normal"],
     category:"Clock Bell PokÃ©mon", description:"This regional form resembles a ticking clock. Its chimes follow a precise rhythm that never falls out of sync.",
@@ -291,6 +295,10 @@ const pokemonData = [
   { dex:"FORM", id:"ZEBSTRIKA,1", imageId:"zebstrika-1",
     name:"Inflamous - Inflamous", types:["Ground", "Fire"],
     category:"Wildfire Horse PokÃ©mon", description:"When enraged, friction from its gallop ignites the ground beneath it. It thrives in harsh deserts where few Pokémon can survive.",
+    isRegionalForm:true },
+  { dex:"FORM", id:"YAMASK,2", imageId:"yamask-2",
+    name:"Yamask - Inflamous", types:["Ghost", "Fire"],
+    category:"Lamp Mask PokÃ©mon", description:"This Yamask carries a ceremonial lamp instead of a mask. The flame within it is said to contain memories from its former life.",
     isRegionalForm:true }
 ];
 

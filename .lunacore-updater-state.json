@@ -1,17 +1,17 @@
 ﻿{
-    "LastRunUtc":  "2026-07-26T16:32:19.3554035Z",
+    "LastRunUtc":  "2026-07-26T16:57:17.2345920Z",
     "FakemonFile":  {
-                        "LastWriteUtc":  "2026-07-25T21:07:55.2763352Z",
-                        "Length":  60303
+                        "LastWriteUtc":  "2026-07-26T16:53:25.5320870Z",
+                        "Length":  61458
                     },
     "FormsFile":  {
-                      "LastWriteUtc":  "2026-07-26T16:26:20.3725250Z",
-                      "Length":  115179
+                      "LastWriteUtc":  "2026-07-26T16:54:47.8871526Z",
+                      "Length":  116086
                   },
     "RegionalDexFile":  {
                             "LastWriteUtc":  "2026-07-25T23:04:52.3063609Z",
                             "Length":  10052
                         },
-    "FakemonCount":  63,
-    "CustomFormCount":  10
+    "FakemonCount":  64,
+    "CustomFormCount":  11
 }
