@@ -7,6 +7,55 @@
   <title>Pokémon Lunacore</title>
 
   <link rel="stylesheet" href="style.css">
+
+  <style>
+    .about-intro {
+      max-width: 900px;
+      margin-bottom: 28px;
+    }
+
+    .team-midnight-showcase {
+      margin-top: 30px;
+    }
+
+    .team-midnight-showcase h3 {
+      margin-bottom: 8px;
+    }
+
+    .team-midnight-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 24px;
+      margin-top: 22px;
+    }
+
+    .team-midnight-member {
+      padding: 24px;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 14px;
+      background: rgba(20, 20, 32, 0.78);
+      text-align: center;
+    }
+
+    .team-midnight-member img {
+      display: block;
+      width: auto;
+      height: 210px;
+      max-width: 100%;
+      margin: 0 auto 18px;
+      object-fit: contain;
+      image-rendering: pixelated;
+    }
+
+    .team-midnight-member h4 {
+      margin: 0 0 10px;
+      font-size: 1.2rem;
+    }
+
+    .team-midnight-member p {
+      margin-bottom: 0;
+    }
+  </style>
 </head>
 
 <body>
@@ -40,12 +89,62 @@
     <section id="about">
       <h2>About Pokémon Lunacore</h2>
 
-      <p>
-        Pokémon Lunacore is a fan-made Pokémon adventure set in the
-        California-inspired Inflamous Region. Challenge Gym Leaders,
-        discover original Pokémon, and stop Team Midnight from corrupting
-        the power of the moon.
-      </p>
+      <div class="about-intro">
+        <p>
+          Pokémon Lunacore is a fan-made Pokémon adventure set in the
+          California-inspired Inflamous Region. Travel through sunny coastlines,
+          crowded cities, dry deserts, rugged mountains, and mysterious locations
+          shaped by the power of the moon.
+        </p>
+
+        <p>
+          Build your team with familiar Pokémon, original Fakemon, and regional
+          forms found only in Inflamous. Challenge Gym Leaders, uncover hidden
+          areas, meet unique characters, and learn why moon fragments have begun
+          changing Pokémon across the region.
+        </p>
+
+        <p>
+          Standing in your way is Team Midnight, a secretive organization carrying
+          out dangerous experiments involving lunar energy. Their plans eventually
+          lead them to Victini, whose power they intend to corrupt and control.
+        </p>
+      </div>
+
+      <div class="team-midnight-showcase">
+        <h3>Meet Team Midnight</h3>
+        <p>
+          Team Midnight grunts patrol the Inflamous Region, investigate unusual
+          lunar activity, and interfere with anyone who gets too close to their
+          operation.
+        </p>
+
+        <div class="team-midnight-grid">
+          <article class="team-midnight-member">
+            <img
+              src="images/team-midnight-f.png"
+              alt="Female Team Midnight grunt"
+            >
+            <h4>Female Team Midnight Grunt</h4>
+            <p>
+              A sharp and calculating operative who carries out Team Midnight's
+              orders while gathering information about lunar energy.
+            </p>
+          </article>
+
+          <article class="team-midnight-member">
+            <img
+              src="images/team-midnight-m.png"
+              alt="Male Team Midnight grunt"
+            >
+            <h4>Male Team Midnight Grunt</h4>
+            <p>
+              A confident field agent assigned to guard experiments, challenge
+              Trainers, and keep Team Midnight's plans hidden.
+            </p>
+          </article>
+        </div>
+      </div>
     </section>
 
     <section id="features">
