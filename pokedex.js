@@ -1,4 +1,4 @@
-// Auto-generated from PBS: 2026-07-26 13:48:57
+// Auto-generated from PBS: 2026-07-26 14:11:05
 
 const pokemonData = [
   {
@@ -722,6 +722,26 @@ const regionalFormData = [
     types: ["Fire"],
     category: "Forge Pup Pokémon",
     description: "This regional Pueppey developed a metallic hide after living near volcanic factories. Sparks erupt from its steel fangs whenever it becomes excited.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "EKANS,1",
+    imageId: "ekans-1",
+    name: "Ekans - Inflamous",
+    types: ["Ground", "Fighting"],
+    category: "Serpent Pokémon",
+    description: "This regional Ekans has developed powerful muscles to burrow through earth and strike with crushing blows.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "ARBOK,1",
+    imageId: "arbok-1",
+    name: "Arbok - Inflamous",
+    types: ["Ground", "Fighting"],
+    category: "Cobra Pokémon",
+    description: "This Arbok uses its immense strength to crush foes. Its body patterns resemble warning signs seen in dangerous terrain.",
     isRegionalForm: true
   },
   {
