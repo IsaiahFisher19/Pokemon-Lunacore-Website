@@ -1,4 +1,4 @@
-// Auto-generated from PBS: 2026-07-26 14:21:15
+// Auto-generated from PBS: 2026-07-27 09:26:37
 
 const pokemonData = [
   {
