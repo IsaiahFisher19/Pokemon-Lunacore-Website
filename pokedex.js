@@ -1,4 +1,4 @@
-// Auto-generated from PBS: 2026-07-27 09:26:37
+// Auto-generated from PBS: 2026-07-28 10:24:59
 
 const pokemonData = [
   {
@@ -368,7 +368,7 @@ const pokemonData = [
     name: "Chipile",
     types: ["Rock", "Fairy"],
     category: "Fries Pokémon",
-    description: "A small Pokémon resembling seasoned potato bites. It rolls around leaving faint sparkling crumbs behind.",
+    description: "Its body resembles a carton of seasoned potato bites. It rolls across the ground while scattering sparkling crumbs that are said to bring good luck.",
     isRegionalForm: false
   },
   {
@@ -378,7 +378,7 @@ const pokemonData = [
     name: "Friedarock",
     types: ["Rock", "Fairy"],
     category: "Deep Fry Pokémon",
-    description: "Evolved from Chipile through strong friendship. Its rocky shell is “fried” into a crisp magical crust that enhances its strength.",
+    description: "After forming a powerful friendship, Chipile evolves and its rocky shell hardens into a crisp magical crust. The radiant heat within its body greatly enhances its physical strength.",
     isRegionalForm: false
   },
   {
@@ -772,6 +772,36 @@ const regionalFormData = [
     types: ["Ghost", "Fire"],
     category: "Lamp Mask Pokémon",
     description: "This Yamask carries a ceremonial lamp instead of a mask. The flame within it is said to contain memories from its former life.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "TEPIG,1",
+    imageId: "tepig-1",
+    name: "Tepig - Inflamous",
+    types: ["Dragon"],
+    category: "Scale Pig Pokémon",
+    description: "Tepig living near Inflamous volcanic springs absorbed metallic minerals through their skin. These minerals hardened into dragon-like scales and suppressed the flames they once produced.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "PIGNITE,1",
+    imageId: "pignite-1",
+    name: "Pignite - Inflamous",
+    types: ["Dragon", "Fire"],
+    category: "Furnace Boar Pokémon",
+    description: "When Tepig evolves, the minerals beneath its scales react with its growing draconic energy. The intense reaction reignites its flame sac and allows it to breathe scorching fire.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "EMBOAR,1",
+    imageId: "emboar-1",
+    name: "Emboar - Inflamous",
+    types: ["Dragon", "Fire"],
+    category: "Inferno Dragon Pokémon",
+    description: "Its body functions as a living volcanic furnace protected by overlapping dragon scales. Inflamous Emboar leap from cliffs and crash down with enough force to split hardened lava.",
     isRegionalForm: true
   }
 ];
