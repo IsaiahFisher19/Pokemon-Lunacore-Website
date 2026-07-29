@@ -1,4 +1,4 @@
-// Auto-generated from PBS: 2026-07-28 10:24:59
+// Auto-generated from PBS: 2026-07-29 08:58:30
 
 const pokemonData = [
   {
@@ -762,6 +762,16 @@ const regionalFormData = [
     types: ["Ground", "Fire"],
     category: "Wildfire Horse Pokémon",
     description: "When enraged, friction from its gallop ignites the ground beneath it. It thrives in harsh deserts where few Pokémon can survive.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "ZEBSTRIKA,2",
+    imageId: "zebstrika-2",
+    name: "Zebstrika - Inflamous Draconic",
+    types: ["Dragon", "Fire"],
+    category: "Volcanic Drake Pokémon",
+    description: "After racing through violent sandstorms, the minerals covering its body ignite and fuse into draconic armor. Its flaming mane burns hotter the faster it runs.",
     isRegionalForm: true
   },
   {
