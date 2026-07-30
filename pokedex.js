@@ -1,4 +1,4 @@
-// Auto-generated from PBS: 2026-07-30 00:02:47
+// Auto-generated from PBS: 2026-07-30 15:21:53
 
 const pokemonData = [
   {
@@ -659,7 +659,7 @@ const regionalFormData = [
     id: "FLABEBE,5",
     imageId: "flabebe-5",
     name: "Flabebe - Inflamous",
-    types: ["Unknown"],
+    types: ["Fairy"],
     category: "Category not yet assigned",
     description: "A Flabébé with a dark, twisted flower. Its presence is unsettling and mysterious.",
     isRegionalForm: true
@@ -669,7 +669,7 @@ const regionalFormData = [
     id: "FLOETTE,6",
     imageId: "floette-6",
     name: "Floette - Inflamous",
-    types: ["Unknown"],
+    types: ["Fairy"],
     category: "Category not yet assigned",
     description: "Floette’s flower has grown dark and powerful. Its aura can make even strong trainers uneasy.",
     isRegionalForm: true
@@ -689,7 +689,7 @@ const regionalFormData = [
     id: "BAGON,2",
     imageId: "bagon-2",
     name: "Bagon - Inflamous",
-    types: ["Unknown"],
+    types: ["Dragon"],
     category: "Category not yet assigned",
     description: "A young Dragon Pokémon that trains by striking hard surfaces to build strength.",
     isRegionalForm: true
@@ -719,7 +719,7 @@ const regionalFormData = [
     id: "PUEPPEY,3",
     imageId: "pueppey-3",
     name: "Pueppey - Forged",
-    types: ["Unknown"],
+    types: ["Fire"],
     category: "Forge Pup Pokémon",
     description: "This regional Pueppey developed a metallic hide after living near volcanic factories. Sparks erupt from its steel fangs whenever it becomes excited.",
     isRegionalForm: true
@@ -740,7 +740,7 @@ const regionalFormData = [
     imageId: "arbok-1",
     name: "Arbok - Inflamous",
     types: ["Ground", "Fighting"],
-    category: "Category not yet assigned",
+    category: "Cobra Pokémon",
     description: "This Arbok uses its immense strength to crush foes. Its body patterns resemble warning signs seen in dangerous terrain.",
     isRegionalForm: true
   },
@@ -806,8 +806,8 @@ const regionalFormData = [
   },
   {
     dex: "FORM",
-    id: "EMBOAR,1",
-    imageId: "emboar-1",
+    id: "EMBOAR,2",
+    imageId: "emboar-2",
     name: "Emboar - Inflamous",
     types: ["Dragon", "Fire"],
     category: "Inferno Dragon Pokémon",
