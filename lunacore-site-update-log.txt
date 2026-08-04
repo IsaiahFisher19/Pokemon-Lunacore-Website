@@ -19,3 +19,4 @@
 2026-08-04 07:18:41 | PBS changed: False | Main Dex: 64 | Regional Forms: 0 | Refreshed sprites: 0 | Current sprites: 171
 2026-08-04 07:31:27 | PBS changed: False | Main Dex: 64 | Regional Forms: 0 | Refreshed sprites: 0 | Current sprites: 171
 2026-08-04 08:17:36 | PBS changed: False | Main Dex: 64 | Regional Forms: 14 | Refreshed sprites: 5 | Current sprites: 206
+2026-08-04 08:29:42 | PBS changed: False | Main Dex: 64 | Regional Forms: 14 | Refreshed sprites: 0 | Current sprites: 211
