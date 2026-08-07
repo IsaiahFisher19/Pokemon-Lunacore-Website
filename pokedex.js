@@ -1,4 +1,4 @@
-// Auto-generated from PBS: 2026-08-04 08:29:41
+// Auto-generated from PBS: 2026-08-07 18:09:06
 
 const pokemonData = [
   {
@@ -633,12 +633,42 @@ const pokemonData = [
   },
   {
     dex: "064",
+    id: "MOSOLY",
+    imageId: "mosoly",
+    name: "Mosoly",
+    types: ["Water", "Rock"],
+    category: "Young Abyss Pokémon",
+    description: "This ancient Pokémon once hunted in shallow prehistoric seas. Its rock-hard jaws could easily crush the shells and armor of smaller Pokémon.",
+    isRegionalForm: false
+  },
+  {
+    dex: "065",
+    id: "MOSABITE",
+    imageId: "mosabite",
+    name: "Mosabite",
+    types: ["Water", "Rock"],
+    category: "Abyss Pokémon",
+    description: "Feared as the ruler of the abyss and king of the ocean, Mosabite reinforces its enormous jaws with stone-like armor and crushes anything that enters its territory.",
+    isRegionalForm: false
+  },
+  {
+    dex: "066",
     id: "QILIBRA",
     imageId: "qilibra",
     name: "Qilibra",
     types: ["Dragon", "Fairy"],
     category: "Celestial Qilin Pokémon",
     description: "By being able to look into the hearts of people and Pokemon, it can see the essence of their being. In doing so, it can pass its judgement wisely.",
+    isRegionalForm: false
+  },
+  {
+    dex: "067",
+    id: "SERPENTRIS",
+    imageId: "serpentris",
+    name: "Serpentris",
+    types: ["Dragon", "Steel"],
+    category: "Divine Serpent Pokémon",
+    description: "Known as the king of all Dragon and serpent-like Pokémon, Serpentris is said to have been born from the light of creation itself.",
     isRegionalForm: false
   }
 ];
@@ -692,6 +722,26 @@ const regionalFormData = [
     types: ["Dragon"],
     category: "Category not yet assigned",
     description: "A young Dragon Pokémon that trains by striking hard surfaces to build strength.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "SHELGON,2",
+    imageId: "shelgon-2",
+    name: "Shelgon - Inflamous",
+    types: ["Dragon"],
+    category: "Category not yet assigned",
+    description: "Its armor hardens as it stores massive energy inside its body.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "SALAMENCE,2",
+    imageId: "salamence-2",
+    name: "Salamence - Inflamous",
+    types: ["Dragon", "Electric"],
+    category: "Category not yet assigned",
+    description: "A storm dragon that fuses lightning and flight into devastating aerial assaults.",
     isRegionalForm: true
   },
   {
@@ -782,6 +832,36 @@ const regionalFormData = [
     types: ["Dragon", "Fire"],
     category: "Inferno Dragon Pokémon",
     description: "Its body functions as a living volcanic furnace protected by overlapping dragon scales. Inflamous Emboar leap from cliffs and crash down with enough force to split hardened lava.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "TINKATINK,1",
+    imageId: "tinkatink-1",
+    name: "Tinkatink - Inflamous",
+    types: ["Rock"],
+    category: "Human Shape Pokémon",
+    description: "Tinkatink live deep inside rocky caves, where they gather stones and fasten them to crude wooden clubs. Their sturdy bodies protect them from falling debris.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "TINKATUFF,1",
+    imageId: "tinkatuff-1",
+    name: "Tinkatuff - Inflamous",
+    types: ["Rock"],
+    category: "Human Shape Pokémon",
+    description: "Tinkatuff strengthen their clubs by repeatedly striking cave walls. They challenge one another to see whose weapon can withstand the greatest impact.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "TINKATON,1",
+    imageId: "tinkaton-1",
+    name: "Tinkaton - Inflamous",
+    types: ["Rock", "Fighting"],
+    category: "Human Shape Pokémon",
+    description: "Tinkaton wield enormous stone clubs built from minerals gathered throughout their lives. A single swing can shatter cave walls and send several opponents flying.",
     isRegionalForm: true
   }
 ];
