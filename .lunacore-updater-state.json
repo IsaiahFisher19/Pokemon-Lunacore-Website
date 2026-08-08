@@ -1,17 +1,12 @@
-﻿{
-    "LastRunUtc":  "2026-08-07T22:09:08.2400982Z",
-    "FakemonFile":  {
-                        "LastWriteUtc":  "2026-08-06T22:04:21.6724057Z",
-                        "Length":  67829
-                    },
-    "FormsFile":  {
-                      "LastWriteUtc":  "2026-08-07T22:08:06.2772332Z",
-                      "Length":  123476
-                  },
-    "RegionalDexFile":  {
-                            "LastWriteUtc":  "2026-08-06T05:15:37.9935866Z",
-                            "Length":  10089
-                        },
-    "MainDexCount":  67,
-    "CustomFormCount":  19
+{
+  "LastRunUtc": "2026-08-08T15:28:55.004739+00:00",
+  "GameFolder": "C:\\Users\\Emera\\Desktop\\Pokemon Essentials\\Pokemon Lunacore",
+  "WebsiteFolder": "C:\\Users\\Emera\\Documents\\GitHub\\Pokemon-Lunacore-Website",
+  "MainDexCount": 67,
+  "CustomFormCount": 20,
+  "AllowedIds": 87,
+  "SpritesCopiedThisRun": 442,
+  "SpritesAlreadyCurrent": 0,
+  "ShinyGalleryCount": 64,
+  "CacheVersion": "20260808112855"
 }

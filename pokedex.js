@@ -1,4 +1,4 @@
-// Auto-generated from PBS: 2026-08-07 18:09:06
+// Auto-generated from PBS: 2026-08-08 11:28:53
 
 const pokemonData = [
   {
@@ -742,6 +742,16 @@ const regionalFormData = [
     types: ["Dragon", "Electric"],
     category: "Category not yet assigned",
     description: "A storm dragon that fuses lightning and flight into devastating aerial assaults.",
+    isRegionalForm: true
+  },
+  {
+    dex: "FORM",
+    id: "PUEPPEY,3",
+    imageId: "pueppey-3",
+    name: "Pueppey - Forged",
+    types: ["Fire"],
+    category: "Forge Pup Pokémon",
+    description: "This regional Pueppey developed a metallic hide after living near volcanic factories. Sparks erupt from its steel fangs whenever it becomes excited.",
     isRegionalForm: true
   },
   {

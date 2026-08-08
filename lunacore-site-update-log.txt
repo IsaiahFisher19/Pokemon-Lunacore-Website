@@ -21,3 +21,8 @@
 2026-08-04 08:17:36 | PBS changed: False | Main Dex: 64 | Regional Forms: 14 | Refreshed sprites: 5 | Current sprites: 206
 2026-08-04 08:29:42 | PBS changed: False | Main Dex: 64 | Regional Forms: 14 | Refreshed sprites: 0 | Current sprites: 211
 2026-08-07 18:09:08 | PBS changed: True | Main Dex: 67 | Regional Forms: 19 | Refreshed sprites: 168 | Current sprites: 52
+2026-08-07 18:55:19 | PBS changed: False | Main Dex: 67 | Regional Forms: 19 | Refreshed sprites: 0 | Current sprites: 220
+2026-08-08 11:15:36 | PBS changed: False | Main Dex: 67 | Regional Forms: 19 | Refreshed sprites: 0 | Current sprites: 220
+2026-08-08 11:27:45 | Main Dex: 67 | Regional Forms: 20 | Copied sprites: 442 | Current sprites: 0 | Shiny gallery: 64 | cache: 20260808112745
+2026-08-08 11:28:37 | Main Dex: 67 | Regional Forms: 20 | Copied sprites: 442 | Current sprites: 0 | Shiny gallery: 64 | cache: 20260808112837
+2026-08-08 11:28:55 | Main Dex: 67 | Regional Forms: 20 | Copied sprites: 442 | Current sprites: 0 | Shiny gallery: 64 | cache: 20260808112855
